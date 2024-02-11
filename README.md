@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+#Codescure  Assignment 
+
+Host Url Link :- https://zesty-semifreddo-6a137c.netlify.app/
+
+When you hit the url you will redirect to home page 
+
+![Homw Page](https://raw.githubusercontent.com/piyushhawq/Images/main/Star%20Wars%20-%20Google%20Chrome%202_11_2024%209_33_24%20PM.png)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
