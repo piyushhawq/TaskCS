@@ -1,6 +1,6 @@
 #Codescure  Assignment 
 
-Host Url Link :- https://zesty-semifreddo-6a137c.netlify.app/
+Host Url Link :- https://magical-caramel-f592e5.netlify.app/
 
 When you hit the url you will redirect to home page 
 
